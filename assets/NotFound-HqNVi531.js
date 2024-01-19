@@ -1,1 +1,0 @@
-import{_ as o,o as t,c}from"./index-9ZAHrzUz.js";const e={class:"notfound-container"},n={__name:"NotFound",setup(s){return(_,a)=>(t(),c("div",e," 该页面空空如也 "))}},d=o(n,[["__scopeId","data-v-80c81d82"]]);export{d as default};
