@@ -1,0 +1,1 @@
+import{u as o,a as e,c as t}from"./index-WHlZu_YW.js";import{_ as s}from"./Header-BCltEJzp.js";const r={class:"footer"},a={__name:"Footer",setup(_){return o(),(c,n)=>(e(),t("div",r,"© 2022-2025 Gaojie"))}},i=s(a,[["__scopeId","data-v-300756a5"]]);export{i as F};
