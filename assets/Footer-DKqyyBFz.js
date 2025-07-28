@@ -1,1 +1,1 @@
-import{a as o,c as e}from"./index-DzU3K3Uf.js";import{_ as t}from"./Header-BtqttPDS.js";const r={class:"footer"},s={__name:"Footer",setup(_){return(c,a)=>(o(),e("div",r,"© 2022-2025 GaoJie"))}},m=t(s,[["__scopeId","data-v-01094ee7"]]);export{m as F};
+import{a as o,c as e}from"./index-DzU3K3Uf.js";import{_ as t}from"./Header-BtqttPDS.js";const r={class:"footer"},s={__name:"Footer",setup(_){return(c,a)=>(o(),e("div",r,"© 2024-2025 GaoJie"))}},m=t(s,[["__scopeId","data-v-01094ee7"]]);export{m as F};
